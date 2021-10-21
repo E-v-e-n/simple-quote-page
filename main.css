@@ -37,3 +37,15 @@ h4 {
 	font-family: monospace;
 	font-size: 1.4em;
 }
+
+@media all and (max-width: 1024px) {
+#text-box {
+	background-color: rgba(0, 0, 0, 0.6);
+	position: absolute;
+	width: 70%;
+	height: auto;
+	font-size: 1.2em;
+	}
+}
+
+
